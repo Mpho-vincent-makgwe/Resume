@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@mui/material": "^5.14.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^4.4.8"
+  },
+  "name": "resume",
+  "description": "Digita Resume",
+  "version": "1.0.0",
+  "main": "main.jsx",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Resume"
+  },
+  "keywords": [
+    "RSM"
+  ],
+  "author": "MphoVincent",
+  "license": "ISC"
+}
